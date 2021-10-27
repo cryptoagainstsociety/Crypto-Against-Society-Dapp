@@ -1,5 +1,4 @@
 {
-
   "name": "nft_minting_dapp",
   "version": "1.0.0",
   "description": "CryptoAgainstSociety minting dapp.",
@@ -16,7 +15,6 @@
     "web3": "^1.5.1",
     "web3-eth-contract": "^1.5.2"
   },
-
   "license": "MIT",
   "scripts": {
     "start": "react-scripts start",
@@ -33,6 +31,5 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-
   }
 }

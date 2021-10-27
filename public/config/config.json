@@ -1,18 +1,18 @@
 {
-  "CONTRACT_ADDRESS": "0xa30F496C4f34f897881f3828EA00391b25a5850c",
-  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0xa30F496C4f34f897881f3828EA00391b25a5850c",
+  "CONTRACT_ADDRESS": "0x399104C5d8E98E62349716eeED1AE521d602bD4A",
+  "SCAN_LINK": "https://etherscan.io/address/0x399104C5d8E98E62349716eeED1AE521d602bD4A",
   "NETWORK": {
     "NAME": "Ethereum",
     "SYMBOL": "Eth",
-    "ID": 4
+    "ID": 1
   },
-  "NFT_NAME": "HashLipsProxyTest",
-  "SYMBOL": "HASH",
+  "NFT_NAME": "CryptoAgainstSociety",
+  "SYMBOL": "CAS",
   "MAX_SUPPLY": 10000,
   "WEI_COST": 80000000000000000,
   "DISPLAY_COST": 0.08,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Opeansea",
-  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/hashlipsproxytest",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/cryptoagainstsociety",
   "SHOW_BACKGROUND": true
 }

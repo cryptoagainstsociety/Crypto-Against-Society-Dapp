@@ -138,7 +138,7 @@ function App() {
       })
       .once("error", (err) => {
         console.log(err);
-        setFeedback("Sorry, something went wrong please try again later.");
+        setFeedback("Sorry, something went wrong please try again.");
         setClaimingNft(false);
       })
       .then((receipt) => {
@@ -161,8 +161,8 @@ function App() {
 
   const incrementMintAmount = () => {
     let newMintAmount = mintAmount + 1;
-    if (newMintAmount > 10) {
-      newMintAmount = 10;
+    if (newMintAmount > 20) {
+      newMintAmount = 20;
     }
     setMintAmount(newMintAmount);
   };
